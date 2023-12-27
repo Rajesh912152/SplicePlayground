@@ -1,0 +1,23 @@
+.heading{
+ font-weight: bold;   
+ margin-bottom: 5%;
+ text-align: center;
+}
+.label{
+    color: #7b8794;
+    font-weight: bold;
+}
+.input{
+    width: 75%;
+    border-color: #cbd2d9;
+    border-width: 2px;
+}
+.updated-array-container {
+    background-color: #f3f3f3;
+    padding: 20px;
+}
+
+.updated-array {
+    font-family: "Bree Serif";
+    font-size: 16px;
+}
